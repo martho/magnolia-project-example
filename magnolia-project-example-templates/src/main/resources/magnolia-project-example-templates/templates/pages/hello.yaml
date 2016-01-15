@@ -1,0 +1,4 @@
+templateScript: /magnolia-project-example-templates/templates/pages/hello.ftl
+renderType: freemarker
+visible: true
+title: Hello
