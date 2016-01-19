@@ -23,4 +23,9 @@ bin
 .settings
 .idea
 *.iml
-*/overlays
+
+# magnolia
+logs
+tmp
+repositories
+overlays
