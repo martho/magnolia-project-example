@@ -1,0 +1,4 @@
+templateScript: /magnolia-project-example-templates/templates/components/quotation.ftl
+renderType: freemarker
+title: Quotation
+dialog: magnolia-project-example-templates:components/quotation

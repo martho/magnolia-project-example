@@ -2,3 +2,10 @@ templateScript: /magnolia-project-example-templates/templates/pages/hello.ftl
 renderType: freemarker
 visible: true
 title: Hello
+dialog: magnolia-project-example-templates:pages/hello
+areas:
+  main:
+    renderType: freemarker
+    availableComponents:
+      quotation:
+        id: magnolia-project-example-templates:components/quotation
