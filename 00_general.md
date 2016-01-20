@@ -12,9 +12,3 @@ Die Basis dieses Magnolia-Project-Template sind die folgenden Web-Artikel:
 Zusätzliche wurden auch folgende Webseiten herangezogen:
 
 * https://documentation.magnolia-cms.com/display/DOCS/Magnolia+5.4+documentation
-* https://wiki.magnolia-cms.com/display/TRAINING54/Home+Training+M5
- * Username: magnolia_training
- * Password: welcome_training
-* https://git.magnolia-cms.com/projects/TRAINING
-
-Zudem wird eine Magnolia Training DVD verwendet.
